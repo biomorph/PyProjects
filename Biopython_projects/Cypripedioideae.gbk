@@ -1,0 +1,1126 @@
+LOCUS       KC990099                 318 bp    DNA     linear   PLN 02-DEC-2013
+DEFINITION  Cypripedium kentuckiense microsatellite Ck_VAIQ sequence.
+ACCESSION   KC990099
+VERSION     KC990099.1  GI:530339747
+KEYWORDS    .
+SOURCE      Cypripedium kentuckiense
+  ORGANISM  Cypripedium kentuckiense
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Cypripedium.
+REFERENCE   1  (bases 1 to 318)
+  AUTHORS   Pandey,M. and Sharma,J.
+  TITLE     Characterization of microsatellite loci for Cypripedium
+            kentuckiense (Orchidaceae)
+  JOURNAL   Conserv Genet Resour 5 (4), 1031-1033 (2013)
+REFERENCE   2  (bases 1 to 318)
+  AUTHORS   Pandey,M. and Sharma,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2013) Plant and Soil Science, Texas Tech
+            University, 253 Plant Science Building 15th St., Lubbock, TX 79409,
+            USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..318
+                     /organism="Cypripedium kentuckiense"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:147073"
+     repeat_region   <1..318
+                     /rpt_type=tandem
+                     /satellite="microsatellite:Ck_VAIQ"
+ORIGIN      
+        1 ttggactggt ccactaatct ttgcctcata tgccatgtgt agccctagtt tcccatgcaa
+       61 ctattgagct caagatgtgg ataggatgag aggggaagga aagaggaaga agaggtagaa
+      121 gagagagaga gagagagaga gagaacaatg acaatagtac agaagttcgg tcaaatccag
+      181 aaaccctttc tattaagtct ttacttgtat atatagcctc ttagaggcct taggatgtga
+      241 acatgtgcct cagatctcat atgtgctcag cctttatggg tgacacatgg acttcgacgc
+      301 cagctttaca cagtgcgt
+//
+
+LOCUS       KC990098                 385 bp    DNA     linear   PLN 02-DEC-2013
+DEFINITION  Cypripedium kentuckiense microsatellite Ck_N844 sequence.
+ACCESSION   KC990098
+VERSION     KC990098.1  GI:530339746
+KEYWORDS    .
+SOURCE      Cypripedium kentuckiense
+  ORGANISM  Cypripedium kentuckiense
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Cypripedium.
+REFERENCE   1  (bases 1 to 385)
+  AUTHORS   Pandey,M. and Sharma,J.
+  TITLE     Characterization of microsatellite loci for Cypripedium
+            kentuckiense (Orchidaceae)
+  JOURNAL   Conserv Genet Resour 5 (4), 1031-1033 (2013)
+REFERENCE   2  (bases 1 to 385)
+  AUTHORS   Pandey,M. and Sharma,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2013) Plant and Soil Science, Texas Tech
+            University, 253 Plant Science Building 15th St., Lubbock, TX 79409,
+            USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..385
+                     /organism="Cypripedium kentuckiense"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:147073"
+     repeat_region   <1..385
+                     /rpt_type=tandem
+                     /satellite="microsatellite:Ck_N844"
+ORIGIN      
+        1 ggtttagtag tccctgactc tcactccttc tatccatcag catctaccat aatctatttt
+       61 cctttctttc cttcgctact ctcacattct ccttcatctg tgtcctctct caactgactg
+      121 gacaaaagat cttcaaccga tcactcctca aaatgtccat cctcttcatc attatcatca
+      181 ccatcatcac cttcttcttc ttcttcttct tcttcttctt cttcttcact ttcctcctta
+      241 gagactacta cctatctact ttacttaatt caccgataga gagtcttctc tttttcttga
+      301 gagtctaatc ctcatcacct tattctattt cttatgtcct tagtagtctt agaggtctcc
+      361 aatcctctct tcttagtaag actga
+//
+
+LOCUS       KC990097                 294 bp    DNA     linear   PLN 02-DEC-2013
+DEFINITION  Cypripedium kentuckiense microsatellite Ck_N09G sequence.
+ACCESSION   KC990097
+VERSION     KC990097.1  GI:530339745
+KEYWORDS    .
+SOURCE      Cypripedium kentuckiense
+  ORGANISM  Cypripedium kentuckiense
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Cypripedium.
+REFERENCE   1  (bases 1 to 294)
+  AUTHORS   Pandey,M. and Sharma,J.
+  TITLE     Characterization of microsatellite loci for Cypripedium
+            kentuckiense (Orchidaceae)
+  JOURNAL   Conserv Genet Resour 5 (4), 1031-1033 (2013)
+REFERENCE   2  (bases 1 to 294)
+  AUTHORS   Pandey,M. and Sharma,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2013) Plant and Soil Science, Texas Tech
+            University, 253 Plant Science Building 15th St., Lubbock, TX 79409,
+            USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..294
+                     /organism="Cypripedium kentuckiense"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:147073"
+     repeat_region   <1..294
+                     /rpt_type=tandem
+                     /satellite="microsatellite:Ck_N09G"
+ORIGIN      
+        1 cattagacca tttgtctccc ttgatgccac aactctctct ctctctctct cctaggacac
+       61 aagcttacat acccaacttg gactttgctt ctccaatatg gtcatcacaa tttgactctc
+      121 caaatttggt catcataatc tgactgtcca aatctagtcg accaatccga tcagattcta
+      181 ccaacaactt cttgtgggtg ccagattgtc ataccatcac ccgatttgat ttccttaact
+      241 cttaccagat ggattcttac tgaattactt cgacgccagc tttacacagt gcgt
+//
+
+LOCUS       KC990096                 218 bp    DNA     linear   PLN 02-DEC-2013
+DEFINITION  Cypripedium kentuckiense microsatellite Ck_D140 sequence.
+ACCESSION   KC990096
+VERSION     KC990096.1  GI:530339744
+KEYWORDS    .
+SOURCE      Cypripedium kentuckiense
+  ORGANISM  Cypripedium kentuckiense
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Cypripedium.
+REFERENCE   1  (bases 1 to 218)
+  AUTHORS   Pandey,M. and Sharma,J.
+  TITLE     Characterization of microsatellite loci for Cypripedium
+            kentuckiense (Orchidaceae)
+  JOURNAL   Conserv Genet Resour 5 (4), 1031-1033 (2013)
+REFERENCE   2  (bases 1 to 218)
+  AUTHORS   Pandey,M. and Sharma,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2013) Plant and Soil Science, Texas Tech
+            University, 253 Plant Science Building 15th St., Lubbock, TX 79409,
+            USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..218
+                     /organism="Cypripedium kentuckiense"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:147073"
+     repeat_region   <1..218
+                     /rpt_type=tandem
+                     /satellite="microsatellite:Ck_D140"
+ORIGIN      
+        1 acataaggaa ggaggtgaga aatcttgaag ggctagtcta gggagtgctt gttctttgtg
+       61 tgggagatct tgagaggttg ttctcagatt tgggagaaag gtgtatatgt ggagagagag
+      121 agagagagag ttataagtgt gtatttaagt gttctcttca tctcatagtg taatttcttg
+      181 ttgctggctc acttcgacgc cagctttaca cagtgcgt
+//
+
+LOCUS       KC990095                 241 bp    DNA     linear   PLN 02-DEC-2013
+DEFINITION  Cypripedium kentuckiense microsatellite Ck_383 sequence.
+ACCESSION   KC990095
+VERSION     KC990095.1  GI:530339743
+KEYWORDS    .
+SOURCE      Cypripedium kentuckiense
+  ORGANISM  Cypripedium kentuckiense
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Cypripedium.
+REFERENCE   1  (bases 1 to 241)
+  AUTHORS   Pandey,M. and Sharma,J.
+  TITLE     Characterization of microsatellite loci for Cypripedium
+            kentuckiense (Orchidaceae)
+  JOURNAL   Conserv Genet Resour 5 (4), 1031-1033 (2013)
+REFERENCE   2  (bases 1 to 241)
+  AUTHORS   Pandey,M. and Sharma,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2013) Plant and Soil Science, Texas Tech
+            University, 253 Plant Science Building 15th St., Lubbock, TX 79409,
+            USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..241
+                     /organism="Cypripedium kentuckiense"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:147073"
+     repeat_region   <1..241
+                     /rpt_type=tandem
+                     /satellite="microsatellite:Ck_383"
+ORIGIN      
+        1 acgcactgtg taaagctggc gtcgaagtaa tgtcgtcgca tggccggacc atgaagaaat
+       61 gaatgaatga atacatgaat gaatgaatga atgaatgaat gaatgaatga atgaatgaat
+      121 gattgaatga atgaacaaat gaaaccatag aatagggttg taccctctgt gttgatcagg
+      181 tgtctggcag attgaataat atcatgtgac tagacttcga cgccagcttt acacagtgcg
+      241 t
+//
+
+LOCUS       KC990094                 317 bp    DNA     linear   PLN 02-DEC-2013
+DEFINITION  Cypripedium kentuckiense microsatellite Ck_2219 sequence.
+ACCESSION   KC990094
+VERSION     KC990094.1  GI:530339742
+KEYWORDS    .
+SOURCE      Cypripedium kentuckiense
+  ORGANISM  Cypripedium kentuckiense
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Cypripedium.
+REFERENCE   1  (bases 1 to 317)
+  AUTHORS   Pandey,M. and Sharma,J.
+  TITLE     Characterization of microsatellite loci for Cypripedium
+            kentuckiense (Orchidaceae)
+  JOURNAL   Conserv Genet Resour 5 (4), 1031-1033 (2013)
+REFERENCE   2  (bases 1 to 317)
+  AUTHORS   Pandey,M. and Sharma,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2013) Plant and Soil Science, Texas Tech
+            University, 253 Plant Science Building 15th St., Lubbock, TX 79409,
+            USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..317
+                     /organism="Cypripedium kentuckiense"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:147073"
+     repeat_region   <1..317
+                     /rpt_type=tandem
+                     /satellite="microsatellite:Ck_2219"
+ORIGIN      
+        1 actattggag agtatggcac cgacatagca gacccagcag tgcatacgat gcatagactt
+       61 cccatacctc cacttcagac tatagtggct agagcattcg ggaactacta tggaggaatg
+      121 atgaaattaa tacccgattg gccaacctgg aggtataggg tgaggtgatt gcattacggg
+      181 aggatatgaa gcataggcat gatgatgatg atgatgatga tgatgatgat gatgatgatg
+      241 atgatgatgc gagagaggat gaggccgatg agtagatatg gatgaatgat tatgggttta
+      301 tatgttttat atttgat
+//
+
+LOCUS       KC990093                 302 bp    DNA     linear   PLN 02-DEC-2013
+DEFINITION  Cypripedium kentuckiense microsatellite Ck_2160 sequence.
+ACCESSION   KC990093
+VERSION     KC990093.1  GI:530339741
+KEYWORDS    .
+SOURCE      Cypripedium kentuckiense
+  ORGANISM  Cypripedium kentuckiense
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Cypripedium.
+REFERENCE   1  (bases 1 to 302)
+  AUTHORS   Pandey,M. and Sharma,J.
+  TITLE     Characterization of microsatellite loci for Cypripedium
+            kentuckiense (Orchidaceae)
+  JOURNAL   Conserv Genet Resour 5 (4), 1031-1033 (2013)
+REFERENCE   2  (bases 1 to 302)
+  AUTHORS   Pandey,M. and Sharma,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2013) Plant and Soil Science, Texas Tech
+            University, 253 Plant Science Building 15th St., Lubbock, TX 79409,
+            USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..302
+                     /organism="Cypripedium kentuckiense"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:147073"
+     repeat_region   <1..302
+                     /rpt_type=tandem
+                     /satellite="microsatellite:Ck_2160"
+ORIGIN      
+        1 agaggcgtga gatctggaag tgctgttgtg tggaaataga ggagagatag gcgtgagttg
+       61 tagagagaga gtgagttgag gagagggagg attgtggttg gaggagagag aggaatgaaa
+      121 antaggaagt gggttggagg gaggttagcg tgaggtaatt ctagtggagc tgggcatgtg
+      181 ctgcatgttg gatagaagat ggatgagaga gagaaggtga aggcatgaat ttagagagag
+      241 agagagagag agaggagtgt gttggctaca tgggcatgtg gctgtgaaga taagaaaggt
+      301 gg
+//
+
+LOCUS       KC990092                 322 bp    DNA     linear   PLN 02-DEC-2013
+DEFINITION  Cypripedium kentuckiense microsatellite Ck_1949 sequence.
+ACCESSION   KC990092
+VERSION     KC990092.1  GI:530339740
+KEYWORDS    .
+SOURCE      Cypripedium kentuckiense
+  ORGANISM  Cypripedium kentuckiense
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Cypripedium.
+REFERENCE   1  (bases 1 to 322)
+  AUTHORS   Pandey,M. and Sharma,J.
+  TITLE     Characterization of microsatellite loci for Cypripedium
+            kentuckiense (Orchidaceae)
+  JOURNAL   Conserv Genet Resour 5 (4), 1031-1033 (2013)
+REFERENCE   2  (bases 1 to 322)
+  AUTHORS   Pandey,M. and Sharma,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2013) Plant and Soil Science, Texas Tech
+            University, 253 Plant Science Building 15th St., Lubbock, TX 79409,
+            USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..322
+                     /organism="Cypripedium kentuckiense"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:147073"
+     repeat_region   <1..322
+                     /rpt_type=tandem
+                     /satellite="microsatellite:Ck_1949"
+ORIGIN      
+        1 tgcgtgacac atttcgaccg cagcttcatg acgataactt ccgagtatca tccctcgaat
+       61 atcagattcc tcctncttct tcttcttctt cttcttcttc ttcttcttct tcttcttctt
+      121 cttatcacgt attcaatagt acgatagtta aacagggatg atggcatncc tatgatcaaa
+      181 tgtatattca ttanttttta tgtatttcat ttgtgtggga tgtataattc cttctacggt
+      241 ataatatatt ataattacat caacgactac cnnnnnnaaa actaacctcg aggtgaatcc
+      301 tgtttccccg ttatcacaac ca
+//
+
+LOCUS       JQ660952                 910 bp    DNA     linear   PLN 15-SEP-2013
+DEFINITION  Cypripedium dickinsonianum xanthine dehydrogenase (xdh) gene,
+            partial cds.
+ACCESSION   JQ660952
+VERSION     JQ660952.1  GI:402503048
+KEYWORDS    .
+SOURCE      Cypripedium dickinsonianum
+  ORGANISM  Cypripedium dickinsonianum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Cypripedium.
+REFERENCE   1  (bases 1 to 910)
+  AUTHORS   Gorniak,M., Szlachetko,D.L., Kowalkowska,A.K., Bohdanowicz,J. and
+            Canh,C.X.
+  TITLE     Taxonomic placement of Paphiopedilum canhii (Cypripedioideae;
+            Orchidaceae) based on cytological, molecular and micromorphological
+            evidence
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   24001522
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 910)
+  AUTHORS   Gorniak,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JAN-2012) Molecular Evolution, Gdansk University, ul.
+            Ornitologow 26, Gdansk 80-680, Poland
+FEATURES             Location/Qualifiers
+     source          1..910
+                     /organism="Cypripedium dickinsonianum"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Szlachetko s.n."
+                     /db_xref="taxon:1226221"
+     gene            <1..>910
+                     /gene="xdh"
+     mRNA            <1..>910
+                     /gene="xdh"
+                     /product="xanthine dehydrogenase"
+     CDS             <1..>910
+                     /gene="xdh"
+                     /codon_start=1
+                     /product="xanthine dehydrogenase"
+                     /protein_id="AFQ60881.1"
+                     /db_xref="GI:402503049"
+                     /translation="FRIFAKTDNSLYIKSSSENTPSGEFICPSTGKPCSCGESKIHDC
+                     ESSAGAIVGEHRPVSYSEIDGCFYDDKELIFPPELLLRNNLPLKLHGFGGINWYRPLK
+                     LKDLLDLKSIYPKAKLVVGNTEVGIEMNFKNAQYPILISVSHVPELNVLSIKENGLEI
+                     GSSVRLSKLQEVLKKVIAERDKSETSSCRAINEQLKWFAGKQVKNVASVGGNICTASP
+                     ISDLNPLWMAAKAVFQIVDSKGKIRTVLAKDFFLGYRKVDLAQGEILLSIFLPWNKYC
+                     EFVKEFKQSHRREDDIAIVNAGMRVHL"
+ORIGIN      
+        1 tttcgtattt ttgctaagac tgataactcc ttgtacatta aatcatcttc agagaataca
+       61 ccatctggtg aatttatttg cccgtcaact ggaaaaccat gttcatgtgg agaaagtaaa
+      121 attcatgatt gtgaaagttc agcaggtgct attgttggcg aacacaggcc tgtctcatat
+      181 agtgaaattg atggatgctt ctacgatgat aaggaactta tttttccacc agaactgctt
+      241 ttgagaaata atcttccact gaaattgcat ggttttggtg gaattaattg gtatcgacct
+      301 ctaaaactta aagatctgtt ggacctcaag tcaatttacc caaaggcaaa acttgttgta
+      361 ggtaatacag aagtaggaat tgaaatgaat tttaaaaatg cccaatatcc aatcctgatc
+      421 tctgtctcgc atgtacctga gctcaatgtt ttgagcataa aggagaatgg tcttgagata
+      481 ggttcttctg taagattgag taaacttcaa gaagttctca aaaaggtgat agcagaacga
+      541 gataagtctg agacctcctc atgcagggcc atcaatgagc agctaaaatg gtttgctgga
+      601 aagcaggtga aaaatgttgc ttctgttggt ggaaatatct gtactgctag cccaatttca
+      661 gatttgaatc cactatggat ggctgctaag gcagtgttcc aaattgtcga ttctaaaggg
+      721 aaaatcagaa ctgttcttgc caaggacttc tttcttggtt accgcaaagt tgatcttgcc
+      781 caaggtgaaa tactattgtc aattttctta ccatggaaca agtattgtga gtttgtcaaa
+      841 gaatttaagc aatcacaccg gagagaagat gatattgcta ttgtgaatgc tggcatgcgt
+      901 gtacatctta
+//
+
+LOCUS       JQ660951                 910 bp    DNA     linear   PLN 15-SEP-2013
+DEFINITION  Paphiopedilum besseae xanthine dehydrogenase (xdh) gene, partial
+            cds.
+ACCESSION   JQ660951
+VERSION     JQ660951.1  GI:402503046
+KEYWORDS    .
+SOURCE      Paphiopedilum besseae
+  ORGANISM  Paphiopedilum besseae
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Paphiopedilum.
+REFERENCE   1  (bases 1 to 910)
+  AUTHORS   Gorniak,M., Szlachetko,D.L., Kowalkowska,A.K., Bohdanowicz,J. and
+            Canh,C.X.
+  TITLE     Taxonomic placement of Paphiopedilum canhii (Cypripedioideae;
+            Orchidaceae) based on cytological, molecular and micromorphological
+            evidence
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   24001522
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 910)
+  AUTHORS   Gorniak,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JAN-2012) Molecular Evolution, Gdansk University, ul.
+            Ornitologow 26, Gdansk 80-680, Poland
+FEATURES             Location/Qualifiers
+     source          1..910
+                     /organism="Paphiopedilum besseae"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Szlachetko 136/08/P"
+                     /db_xref="taxon:53125"
+     gene            <1..>910
+                     /gene="xdh"
+     mRNA            <1..>910
+                     /gene="xdh"
+                     /product="xanthine dehydrogenase"
+     CDS             <1..>910
+                     /gene="xdh"
+                     /codon_start=1
+                     /product="xanthine dehydrogenase"
+                     /protein_id="AFQ60880.1"
+                     /db_xref="GI:402503047"
+                     /translation="FRIFAKTDNSLYIMSSSENTSSGEFICPSTGKPCSCGESKFHSC
+                     ESSAGAIFGECRPVSYSEIDGSFYIEKELIFPPELLLRNNLPLKLHGFGGINWFRPLK
+                     LKHLLDLKSNYPEAKLLVGNTEVGIEINFKNAQYPILISVTHVPELNVLSIKENGLEI
+                     GSSVRLSKLQEVLKKVIAERDKSETSSCRAISDQLKWFAGKQVKNVASVGGNICTASP
+                     ISDLNPLWMAAKAVFKIVDSKGKIRTVLAKDFFLGYRKVDLAQGEILLSIFLPWNKYC
+                     EFVKEFKQSHRREDDIALVNAGMRVHL"
+ORIGIN      
+        1 tttcgcattt ttgctaagac tgataactcc ttgtacatta tgtcatcttc agagaataca
+       61 tcatctggtg aattcatttg cccatcaact ggaaaaccat gttcatgtgg agaaagtaaa
+      121 tttcatagtt gtgaaagttc agcaggtgcc atctttggag aatgccggcc agtctcatat
+      181 agtgagattg atggaagttt ctacattgag aaggaactta tttttccacc agaactgctt
+      241 ttgagaaata atcttccact gaaattgcat ggttttggtg gaattaattg gtttcgacct
+      301 ctaaaactta aacatctgtt ggatcttaag tcaaattacc cagaggcaaa acttcttgtt
+      361 ggtaatacag aggtaggtat tgaaattaat tttaaaaatg ctcaatatcc aatcctaatc
+      421 tcagtcactc atgtacctga gctcaatgtt ttgagcataa aggagaatgg tcttgagata
+      481 ggttcttctg taagactaag taaacttcaa gaagttctca aaaaggtgat agcagaacgt
+      541 gacaagtctg agacctcctc ttgcagggcc atcagtgatc agctaaaatg gtttgctgga
+      601 aagcaggtaa aaaatgttgc ttctgttggt ggaaatatct gcacagctag cccaatttca
+      661 gatttgaatc cactttggat ggctgctaaa gcagtgttca aaattgttga ttctaaaggg
+      721 aaaatcagaa ctgttcttgc caaagacttc tttcttggtt accgcaaagt tgatcttgcc
+      781 caaggtgaaa tactactgtc aattttctta ccatggaaca agtactgtga gtttgtgaaa
+      841 gaattcaagc aatcacaccg gagagaggat gatattgcac ttgtgaatgc tgggatgcgt
+      901 gtacatctca
+//
+
+LOCUS       JQ660950                 905 bp    DNA     linear   PLN 15-SEP-2013
+DEFINITION  Paphiopedilum armeniacum xanthine dehydrogenase (xdh) gene, partial
+            cds.
+ACCESSION   JQ660950
+VERSION     JQ660950.1  GI:402503044
+KEYWORDS    .
+SOURCE      Paphiopedilum armeniacum
+  ORGANISM  Paphiopedilum armeniacum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Paphiopedilum.
+REFERENCE   1  (bases 1 to 905)
+  AUTHORS   Gorniak,M., Szlachetko,D.L., Kowalkowska,A.K., Bohdanowicz,J. and
+            Canh,C.X.
+  TITLE     Taxonomic placement of Paphiopedilum canhii (Cypripedioideae;
+            Orchidaceae) based on cytological, molecular and micromorphological
+            evidence
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   24001522
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 905)
+  AUTHORS   Gorniak,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JAN-2012) Molecular Evolution, Gdansk University, ul.
+            Ornitologow 26, Gdansk 80-680, Poland
+FEATURES             Location/Qualifiers
+     source          1..905
+                     /organism="Paphiopedilum armeniacum"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Szlachetko 08/07/P"
+                     /db_xref="taxon:53069"
+     gene            <1..>905
+                     /gene="xdh"
+     mRNA            <1..>905
+                     /gene="xdh"
+                     /product="xanthine dehydrogenase"
+     CDS             <1..>905
+                     /gene="xdh"
+                     /codon_start=2
+                     /product="xanthine dehydrogenase"
+                     /protein_id="AFQ60879.1"
+                     /db_xref="GI:402503045"
+                     /translation="IFAKTDNSLYIESSSENKPFGEFICPSTGKPCSCGESKFHNCES
+                     SSCAVFGERWPVSYSEINGSFYNEKELIFPPELLLRNNLPLKLHGFGGINWFRPLKLK
+                     HLLDLKSNYPEAKLIVGNTEVGIEINFKNARYPILISVTHVPELNVLSIKENGLEIGS
+                     SVRLSKLQEFLKKVIAERDKSETSSCRAINDQLKWFAGKQVKNAASVGGNICTASPIS
+                     DLNPLWMAASAVFQIVDSKGKIRTVLAKDFFLGYRKVDLAQGEILLSILLPWNKYCEF
+                     VKEFKQSHRREDDIALVNAGMRVHL"
+ORIGIN      
+        1 catttttgct aagactgata actccttgta tattgaatca tcttcagaga ataaaccatt
+       61 tggtgaattc atttgcccat caacaggaaa accatgttca tgtggagaaa gtaaatttca
+      121 taattgtgaa agttcatcat gtgctgtctt tggagaacgc tggcctgtct catatagtga
+      181 aattaatgga agtttctaca acgaaaagga gcttattttt ccgccagaac tgcttttgag
+      241 aaataatctt ccactgaaat tgcatggttt tggtggaatt aattggtttc ggcctctaaa
+      301 acttaaacat ctgttggatc tcaagtcaaa ttacccggag gcaaaactta ttgttggtaa
+      361 tacagaggta ggtattgaaa ttaattttaa aaatgctcga tatccaatcc tgatatctgt
+      421 cacgcatgta cctgagctca atgttttgag cataaaagaa aatggtcttg agataggttc
+      481 ttctgtaaga ctaagtaaac ttcaagaatt tctcaaaaag gtgatagcag aacgcgacaa
+      541 gtctgagacc tcctcatgca gggccatcaa tgatcagcta aaatggtttg ctggaaagca
+      601 ggtaaaaaat gctgcttctg ttggtggaaa tatctgtact gctagcccaa tttcagattt
+      661 gaatccactt tggatggctg ctagtgctgt gttccaaatt gttgattcta aagggaaaat
+      721 cagaaccgtt cttgccaaag atttctttct tggttaccgc aaagttgatc tcgcccaagg
+      781 tgaaatacta ctgtcaattc tcttaccatg gaacaagtac tgtgagtttg tgaaagaatt
+      841 taagcaatca caccggagag aggatgatat tgctcttgtg aatgctggga tgcgtgtaca
+      901 tctca
+//
+
+LOCUS       JQ660949                 910 bp    DNA     linear   PLN 15-SEP-2013
+DEFINITION  Paphiopedilum delenatii xanthine dehydrogenase (xdh) gene, partial
+            cds.
+ACCESSION   JQ660949
+VERSION     JQ660949.1  GI:402503042
+KEYWORDS    .
+SOURCE      Paphiopedilum delenatii
+  ORGANISM  Paphiopedilum delenatii
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Paphiopedilum.
+REFERENCE   1  (bases 1 to 910)
+  AUTHORS   Gorniak,M., Szlachetko,D.L., Kowalkowska,A.K., Bohdanowicz,J. and
+            Canh,C.X.
+  TITLE     Taxonomic placement of Paphiopedilum canhii (Cypripedioideae;
+            Orchidaceae) based on cytological, molecular and micromorphological
+            evidence
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   24001522
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 910)
+  AUTHORS   Gorniak,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JAN-2012) Molecular Evolution, Gdansk University, ul.
+            Ornitologow 26, Gdansk 80-680, Poland
+FEATURES             Location/Qualifiers
+     source          1..910
+                     /organism="Paphiopedilum delenatii"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Szlachetko 29/06/S"
+                     /db_xref="taxon:78826"
+     gene            <1..>910
+                     /gene="xdh"
+     mRNA            <1..>910
+                     /gene="xdh"
+                     /product="xanthine dehydrogenase"
+     CDS             <1..>910
+                     /gene="xdh"
+                     /codon_start=1
+                     /product="xanthine dehydrogenase"
+                     /protein_id="AFQ60878.1"
+                     /db_xref="GI:402503043"
+                     /translation="FRIFAKTDNSLYVKSSSENKPSGEFICPSTGKPCSCGESKFHNC
+                     ESSSCAVFGERWPVSYSEINGSFYNEKELIFPPELLLRNNLPLKLHGFGGINWFRPLK
+                     LKHLLDLKSNYPEAKLIVGNTEVGIEINFKNARYPILISVTHVPELNVLSIKENGLEI
+                     GSSVRLSKLQEFLKKVIAERDKSETSSCRAINDQLKWFAGKQVKNAASVGGNICTASP
+                     ISDLNPLWMAARAVFQIVDSKGKIRTVLAKDFFLGYRKVDLAQGEILLSIFLPWNKYC
+                     EFVKEFKQSHRREDDIALVNAGMRVHL"
+ORIGIN      
+        1 tttcgcattt ttgctaagac tgataactcc ttgtacgtta aatcatcttc agagaataaa
+       61 ccatctggtg aattcatttg cccatcaaca ggaaaaccat gttcatgtgg agaaagtaaa
+      121 tttcataatt gtgaaagttc atcatgtgct gtctttggag aacgctggcc tgtctcatat
+      181 agtgaaatta atggaagttt ctacaacgaa aaggagctta tttttccacc agaactgctt
+      241 ctgagaaata atcttccact gaaattgcat ggttttggtg gaattaattg gtttcggcct
+      301 ctaaaactta aacatctgtt ggatctcaag tcaaattacc cggaggcaaa acttattgtt
+      361 ggtaatacag aggtaggtat tgaaattaat tttaaaaatg ctcgatatcc aatcctgata
+      421 tctgtcacgc atgtacctga gctcaatgtt ttgagcataa aagaaaatgg tcttgaaata
+      481 ggttcttctg taagactaag taaacttcaa gaatttctca aaaaggtgat agcagaacgt
+      541 gacaagtctg agacctcctc atgcagggcc atcaatgatc agctaaaatg gtttgctgga
+      601 aagcaggtaa aaaatgctgc ttctgttggt ggaaatatct gtactgctag cccaatttca
+      661 gatttgaatc cactttggat ggctgctaga gctgtattcc aaattgttga ttctaaaggg
+      721 aaaatcagaa ccgttcttgc caaagatttc tttcttggtt accgcaaagt tgatctcgcc
+      781 caaggtgaaa tactactgtc aattttctta ccatggaaca agtactgtga gtttgtgaaa
+      841 gaatttaagc aatcacaccg gagagaggat gatattgctc ttgtgaatgc tgggatgcgt
+      901 gtacatctca
+//
+
+LOCUS       JQ660948                 910 bp    DNA     linear   PLN 15-SEP-2013
+DEFINITION  Paphiopedilum canhii xanthine dehydrogenase (xdh) gene, partial
+            cds.
+ACCESSION   JQ660948
+VERSION     JQ660948.1  GI:402503040
+KEYWORDS    .
+SOURCE      Paphiopedilum canhii
+  ORGANISM  Paphiopedilum canhii
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Paphiopedilum.
+REFERENCE   1  (bases 1 to 910)
+  AUTHORS   Gorniak,M., Szlachetko,D.L., Kowalkowska,A.K., Bohdanowicz,J. and
+            Canh,C.X.
+  TITLE     Taxonomic placement of Paphiopedilum canhii (Cypripedioideae;
+            Orchidaceae) based on cytological, molecular and micromorphological
+            evidence
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   24001522
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 910)
+  AUTHORS   Gorniak,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JAN-2012) Molecular Evolution, Gdansk University, ul.
+            Ornitologow 26, Gdansk 80-680, Poland
+FEATURES             Location/Qualifiers
+     source          1..910
+                     /organism="Paphiopedilum canhii"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Canh s.n."
+                     /db_xref="taxon:1226225"
+     gene            <1..>910
+                     /gene="xdh"
+     mRNA            <1..>910
+                     /gene="xdh"
+                     /product="xanthine dehydrogenase"
+     CDS             <1..>910
+                     /gene="xdh"
+                     /codon_start=1
+                     /product="xanthine dehydrogenase"
+                     /protein_id="AFQ60877.1"
+                     /db_xref="GI:402503041"
+                     /translation="FRIFAKTDNSLYIKSSSENKPSGEFICPSTGKPCSCGESKFHNC
+                     ESSSGAVSGERWPVSYSEIDGSFYNEKELIFPPELLLRNNLPLKLHGFGGINWFRPLK
+                     LKSLLDLKSNYPEAKLIVGNTEVGIEINFKNARYPILISVTHVPDLNVLSIKENGLEI
+                     GSSVRLSKLQEFLKKMIAERDKSETSSCRAINDQLKWFAGKQVKNAASVGGNICTASP
+                     ISDLNPLWMAARAVFQIIDSKGKIRTVLAKDFFLGYRKVDLAQGEILLSIFLPWNKHC
+                     EFVKEFKQSHRREDDIALVNAGMRVHL"
+ORIGIN      
+        1 tttcgcattt ttgctaagac tgataactcc ttgtacatta aatcatcttc agagaataaa
+       61 ccatctggtg aattcatttg cccatcaaca ggaaaaccat gttcatgtgg agaaagtaaa
+      121 tttcataatt gtgaaagttc atcaggtgct gtctctggag aacgctggcc tgtctcatac
+      181 agtgaaattg atggaagttt ctacaacgaa aaggagctta tttttccgcc agaactgctt
+      241 ttgagaaata atcttccact gaaattgcat ggttttggtg gaattaattg gtttcgacct
+      301 ctaaaactta aatctctgtt ggatctcaag tcaaattacc cggaggcaaa acttattgtt
+      361 ggtaatacag aggtaggtat tgaaattaat tttaaaaatg ctcgatatcc aatcctgata
+      421 tctgtcacgc atgtacctga tctcaatgtt ttgagcataa aagagaatgg tcttgagata
+      481 ggttcttctg taagactaag taaacttcaa gaatttctca aaaagatgat agcagaacgt
+      541 gacaagtctg agacctcctc atgcagggcc atcaatgatc agctaaaatg gtttgctgga
+      601 aagcaggtga aaaatgctgc ttctgttggt ggaaatatct gtactgctag cccaatttca
+      661 gatttgaatc cactttggat ggctgctaga gctgtcttcc aaattattga ttctaaaggg
+      721 aaaatcagaa ccgttcttgc caaagacttc tttcttggtt accgcaaagt tgatctcgcc
+      781 caaggtgaaa tactactgtc aattttctta ccatggaaca agcactgtga gttcgtgaaa
+      841 gaatttaagc aatcacaccg gagagaggat gatattgctc ttgtgaatgc tgggatgcgt
+      901 gtacatctca
+//
+
+LOCUS       JQ660947                 910 bp    DNA     linear   PLN 15-SEP-2013
+DEFINITION  Paphiopedilum niveum xanthine dehydrogenase (xdh) gene, partial
+            cds.
+ACCESSION   JQ660947
+VERSION     JQ660947.1  GI:402503038
+KEYWORDS    .
+SOURCE      Paphiopedilum niveum
+  ORGANISM  Paphiopedilum niveum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Paphiopedilum.
+REFERENCE   1  (bases 1 to 910)
+  AUTHORS   Gorniak,M., Szlachetko,D.L., Kowalkowska,A.K., Bohdanowicz,J. and
+            Canh,C.X.
+  TITLE     Taxonomic placement of Paphiopedilum canhii (Cypripedioideae;
+            Orchidaceae) based on cytological, molecular and micromorphological
+            evidence
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   24001522
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 910)
+  AUTHORS   Gorniak,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JAN-2012) Molecular Evolution, Gdansk University, ul.
+            Ornitologow 26, Gdansk 80-680, Poland
+FEATURES             Location/Qualifiers
+     source          1..910
+                     /organism="Paphiopedilum niveum"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Szlachetko 78/08/P"
+                     /db_xref="taxon:53104"
+     gene            <1..>910
+                     /gene="xdh"
+     mRNA            <1..>910
+                     /gene="xdh"
+                     /product="xanthine dehydrogenase"
+     CDS             <1..>910
+                     /gene="xdh"
+                     /codon_start=1
+                     /product="xanthine dehydrogenase"
+                     /protein_id="AFQ60876.1"
+                     /db_xref="GI:402503039"
+                     /translation="FRIFAKTDNSLYIKSSSENKPSGEFICPSTGKPCSCGESKFHNC
+                     ESSSGAVFGERWPVSYSEIDGSFYNEKELIFPPELLLRNNLPLKLHGFGGINWFRPLK
+                     LKYLLDLKSNYPEAKLIVGNTEVGIEINFKNARYPILISVTHVPELNVLCIKENGLEI
+                     GSSVRLSKLQEFLKKVIAERDKSETSSCRAINDQLKWFAGKQVKNAASVGGNICTASP
+                     ISDLNPLWMAARAVFQIIDSKGKIRTVLAKDFFLGYRKVDLAQGEILLSIFLPWNKHC
+                     EFVKEFKQSHRREDDIALVNAGMRVHL"
+ORIGIN      
+        1 tttcgcattt ttgctaagac tgataactcc ttgtacatta aatcatcttc agagaataaa
+       61 ccatctggtg aattcatttg cccatcaacg ggaaaaccat gttcatgtgg agaaagtaaa
+      121 tttcataatt gtgaaagttc atcaggtgct gtctttggag aacggtggcc tgtctcatac
+      181 agtgaaattg atggaagttt ctacaacgaa aaggagctta tttttccgcc agaactgctt
+      241 ttgagaaata atcttccact gaaattgcat ggttttggtg gaattaattg gtttcgacct
+      301 ctaaaactta aatatctgtt ggatctcaag tcaaattacc cggaggcaaa acttattgtt
+      361 ggtaatacag aggtaggtat tgaaattaat tttaaaaatg ctcgatatcc aatcctgata
+      421 tctgtcacgc atgtacctga gctcaatgtt ttgtgcataa aagagaatgg tcttgagata
+      481 ggttcttctg taagactaag taaacttcaa gaatttctca aaaaggtgat agcagaacgt
+      541 gacaagtctg agacctcctc atgcagggcc atcaatgatc agctaaaatg gtttgctgga
+      601 aagcaggtga aaaatgctgc ttctgttggt ggaaatatct gtactgctag cccaatttca
+      661 gatttgaatc cactttggat ggctgctaga gctgtcttcc aaattattga ttctaaaggg
+      721 aaaatcagaa ccgttcttgc caaagacttc tttcttggtt accgcaaagt tgatctcgcc
+      781 caaggtgaaa tactactgtc aattttctta ccatggaaca agcactgtga gttcgtgaaa
+      841 gaatttaagc aatcacaccg gagagaggat gatattgctc ttgtgaatgc tgggatgcgt
+      901 gtacatctca
+//
+
+LOCUS       JQ660946                 843 bp    DNA     linear   PLN 15-SEP-2013
+DEFINITION  Paphiopedilum concolor xanthine dehydrogenase (xdh) gene, partial
+            cds.
+ACCESSION   JQ660946
+VERSION     JQ660946.1  GI:402503036
+KEYWORDS    .
+SOURCE      Paphiopedilum concolor
+  ORGANISM  Paphiopedilum concolor
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Paphiopedilum.
+REFERENCE   1  (bases 1 to 843)
+  AUTHORS   Gorniak,M., Szlachetko,D.L., Kowalkowska,A.K., Bohdanowicz,J. and
+            Canh,C.X.
+  TITLE     Taxonomic placement of Paphiopedilum canhii (Cypripedioideae;
+            Orchidaceae) based on cytological, molecular and micromorphological
+            evidence
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   24001522
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 843)
+  AUTHORS   Gorniak,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JAN-2012) Molecular Evolution, Gdansk University, ul.
+            Ornitologow 26, Gdansk 80-680, Poland
+FEATURES             Location/Qualifiers
+     source          1..843
+                     /organism="Paphiopedilum concolor"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Szlachetko 25/07/C"
+                     /db_xref="taxon:53078"
+     gene            <1..>843
+                     /gene="xdh"
+     mRNA            <1..>843
+                     /gene="xdh"
+                     /product="xanthine dehydrogenase"
+     CDS             <1..>843
+                     /gene="xdh"
+                     /codon_start=3
+                     /product="xanthine dehydrogenase"
+                     /protein_id="AFQ60875.1"
+                     /db_xref="GI:402503037"
+                     /translation="LYIKSSSENKPSGEFICPSTGKPCSCGESKFHNRESSSGAVFGE
+                     RWPVSYSEIDGSFYNEKELIFPPELLLRNNVPLKLHGFGGINWFRPLKLKYLLDLKSN
+                     YPEAKLIVGNTEVGIEINFKNARYPILISVTHVPELNVLCIKENGLEIGSSVRLSKLQ
+                     EFLKKVIAERDKSETSSCRAINDQLKWFAGKQVKNAASVGGNICTASPISDLNPLWMA
+                     ARAVFQIIDSKGKIRTVLAKDFFLGYRKVDLTQGEILLSIFLPWNKHCEFVKEFKQSH
+                     RRED"
+ORIGIN      
+        1 ccttgtacat taaatcatct tcagagaata aaccatctgg tgaattcatt tgcccatcaa
+       61 caggaaaacc atgttcatgt ggagaaagta aatttcataa tcgtgaaagt tcatcaggtg
+      121 ctgtctttgg agaacgctgg cctgtctcat acagtgaaat tgatggaagt ttctacaacg
+      181 aaaaggagct tatttttccg ccagaactgc ttttgagaaa taatgttcca ctgaaattgc
+      241 atggttttgg tggaattaat tggtttcgac ctctaaaact taaatatctg ttggatctca
+      301 agtcaaatta cccggaggca aaacttattg ttggtaatac agaggtaggt attgaaatta
+      361 attttaaaaa tgctcgatat ccaatcctga tatctgtcac gcatgtacct gagctcaatg
+      421 ttttgtgcat aaaagagaat ggccttgaga taggttcttc tgtaagacta agtaaacttc
+      481 aagaatttct caaaaaggtg atagcagaac gtgacaagtc tgagacctcc tcatgcaggg
+      541 ccatcaatga tcagctaaaa tggtttgctg gaaagcaggt gaaaaatgct gcttctgttg
+      601 gtggaaatat ctgtactgct agcccaattt cagatttgaa tccactttgg atggctgcta
+      661 gagctgtctt ccaaattatt gattctaaag ggaaaatcag aaccgttctt gccaaagact
+      721 tctttcttgg ttaccgcaaa gttgatctca cccaaggtga aatactactg tcaattttct
+      781 taccatggaa caagcactgt gaattcgtga aagaatttaa gcaatcacac cggagagagg
+      841 atg
+//
+
+LOCUS       JQ660945                 910 bp    DNA     linear   PLN 15-SEP-2013
+DEFINITION  Paphiopedilum helenae xanthine dehydrogenase (xdh) gene, partial
+            cds.
+ACCESSION   JQ660945
+VERSION     JQ660945.1  GI:402503034
+KEYWORDS    .
+SOURCE      Paphiopedilum helenae
+  ORGANISM  Paphiopedilum helenae
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Paphiopedilum.
+REFERENCE   1  (bases 1 to 910)
+  AUTHORS   Gorniak,M., Szlachetko,D.L., Kowalkowska,A.K., Bohdanowicz,J. and
+            Canh,C.X.
+  TITLE     Taxonomic placement of Paphiopedilum canhii (Cypripedioideae;
+            Orchidaceae) based on cytological, molecular and micromorphological
+            evidence
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   24001522
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 910)
+  AUTHORS   Gorniak,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JAN-2012) Molecular Evolution, Gdansk University, ul.
+            Ornitologow 26, Gdansk 80-680, Poland
+FEATURES             Location/Qualifiers
+     source          1..910
+                     /organism="Paphiopedilum helenae"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Szlachetko 50/06/P"
+                     /db_xref="taxon:136296"
+     gene            <1..>910
+                     /gene="xdh"
+     mRNA            <1..>910
+                     /gene="xdh"
+                     /product="xanthine dehydrogenase"
+     CDS             <1..>910
+                     /gene="xdh"
+                     /codon_start=1
+                     /product="xanthine dehydrogenase"
+                     /protein_id="AFQ60874.1"
+                     /db_xref="GI:402503035"
+                     /translation="FRIFAKTNNSLYVKSSSGNKPSGEFICPSTGKPCSCGESKFHNC
+                     ESSSGAVFGERWPVSYSEIDGSFYNEKELIFPPELLLRNDLPLKLHGFGGINWFRPLK
+                     LKSLLDLKSNYPEAKLIVGNTEVGIEINFKNARYPILISVTHVPELNVLSIKENGLEI
+                     GSSVRLSKLQEFLKKVIAERDKSETSSCRAINDQLKWFAGKQVKNAASVGGNICTASP
+                     ISDLNPLWMAARAAFQIIDSKGKIRTVLAKDFFLGYRKVDLAQGEILLSIFLPWNKHC
+                     EFVKEFKQSHRREDDIALVNAGMRVHL"
+ORIGIN      
+        1 tttcgcattt ttgctaagac taataactcc ttgtacgtta aatcatcttc agggaataaa
+       61 ccatctggtg aattcatttg cccatcaaca ggaaaaccat gttcatgtgg agaaagtaaa
+      121 tttcataatt gtgaaagttc atcaggtgct gtctttggag aacgctggcc tgtctcatac
+      181 agtgaaattg atggaagttt ctacaatgaa aaggagctta tttttccacc ggaactgctt
+      241 ttgagaaatg atcttccact gaaattgcat ggttttggtg gaattaattg gtttcgacct
+      301 ctaaaactta aatctctgtt ggatctcaag tcaaattacc cggaggcaaa acttattgtt
+      361 ggtaatacag aggtaggtat tgaaattaat tttaaaaatg ctcgatatcc aatcctgata
+      421 tctgtcacgc atgtacctga gctcaatgtt ttgagcataa aagagaatgg tcttgagata
+      481 ggttcttctg taagactaag caaacttcaa gaatttctca aaaaggtgat agcagaacgt
+      541 gacaagtctg agacctcctc atgcagggcc atcaatgatc agctaaaatg gtttgctgga
+      601 aagcaggtga aaaatgctgc ttctgttggt ggaaatatct gtactgctag cccaatttca
+      661 gatttgaatc cactttggat ggctgctaga gctgccttcc aaattattga ttctaaaggg
+      721 aaaatcagaa ccgttcttgc caaagacttc tttcttggtt accgcaaagt tgatctcgcc
+      781 caaggtgaaa tactactgtc aattttctta ccatggaaca agcactgtga gttcgtgaaa
+      841 gaatttaagc aatcacaccg gagagaggat gatattgctc ttgtgaatgc tgggatgcgt
+      901 gtacatctca
+//
+
+LOCUS       JQ660944                 910 bp    DNA     linear   PLN 15-SEP-2013
+DEFINITION  Paphiopedilum gratrixianum xanthine dehydrogenase (xdh) gene,
+            partial cds.
+ACCESSION   JQ660944
+VERSION     JQ660944.1  GI:402503032
+KEYWORDS    .
+SOURCE      Paphiopedilum gratrixianum
+  ORGANISM  Paphiopedilum gratrixianum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Paphiopedilum.
+REFERENCE   1  (bases 1 to 910)
+  AUTHORS   Gorniak,M., Szlachetko,D.L., Kowalkowska,A.K., Bohdanowicz,J. and
+            Canh,C.X.
+  TITLE     Taxonomic placement of Paphiopedilum canhii (Cypripedioideae;
+            Orchidaceae) based on cytological, molecular and micromorphological
+            evidence
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   24001522
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 910)
+  AUTHORS   Gorniak,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JAN-2012) Molecular Evolution, Gdansk University, ul.
+            Ornitologow 26, Gdansk 80-680, Poland
+FEATURES             Location/Qualifiers
+     source          1..910
+                     /organism="Paphiopedilum gratrixianum"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Szlachetko 44/03/K"
+                     /db_xref="taxon:53090"
+     gene            <1..>910
+                     /gene="xdh"
+     mRNA            <1..>910
+                     /gene="xdh"
+                     /product="xanthine dehydrogenase"
+     CDS             <1..>910
+                     /gene="xdh"
+                     /codon_start=1
+                     /product="xanthine dehydrogenase"
+                     /protein_id="AFQ60873.1"
+                     /db_xref="GI:402503033"
+                     /translation="FRIFAKTDNSLYVKSSSGNKPSGEFICPSTGKPCSCGESKFHNC
+                     ESSSGAVFGERWPVSYSEIDGSFYNEKELIFPPELLLRNNLPLKLHGFGGINWFRPLK
+                     LKSLLDLKSNYPEAKLIVGNTEVGIEINFKNARYPILISVTHVPELNVLSIKENGLEI
+                     GSSVRLSKLQEFLKKVIAERDKSETSSCRAINDQLKWFAGKQVKNAASVGGNICTASP
+                     ISDLNPLWMAARAVFQIIDSKGKIRTVLAKDFFLGYRKVDLAQGEILLSIFLPWNKHC
+                     EFVKEFKQSHRREDDIALVNAGMRVHL"
+ORIGIN      
+        1 tttcgcattt ttgctaagac tgataactcc ttgtacgtta aatcatcttc agggaataaa
+       61 ccatctggtg aattcatttg cccatcaaca ggaaaaccat gttcatgtgg agagagtaaa
+      121 tttcataatt gtgaaagttc atcaggtgct gtctttggag aacgctggcc tgtctcatac
+      181 agtgaaattg atggaagttt ctacaacgaa aaggagctta tttttccgcc agaactgctt
+      241 ttgagaaata atcttccact gaaattgcat ggttttggtg gaattaattg gtttcgacct
+      301 ctaaaactta aatctctgtt ggatctcaag tcaaattacc cggaggcaaa acttattgtt
+      361 ggtaatacag aggtaggtat tgaaattaat tttaaaaatg ctcgatatcc aatcctgata
+      421 tctgtcacgc atgtacctga gctcaatgtt ttgagcataa aagagaatgg tcttgagata
+      481 ggttcttctg taagactaag caaacttcaa gaatttctca aaaaggtgat agcagaacgt
+      541 gacaagtctg agacctcctc atgcagggcc atcaatgatc agctaaaatg gtttgctgga
+      601 aagcaggtga aaaatgctgc ttctgttggt ggaaatatct gtactgctag cccaatttca
+      661 gatttgaatc cactttggat ggctgctaga gctgtcttcc aaattattga ttctaaaggg
+      721 aaaatcagaa ccgttcttgc caaagacttc tttcttggtt accgcaaagt tgatctcgcc
+      781 caaggtgaaa tactactgtc aattttctta ccatggaaca agcactgtga gttcgtgaaa
+      841 gaatttaagc aatcacaccg gagagaggat gatattgctc ttgtgaatgc tgggatgcgt
+      901 gtacatctca
+//
+
+LOCUS       JQ660943                 910 bp    DNA     linear   PLN 15-SEP-2013
+DEFINITION  Paphiopedilum villosum xanthine dehydrogenase (xdh) gene, partial
+            cds.
+ACCESSION   JQ660943
+VERSION     JQ660943.1  GI:402503030
+KEYWORDS    .
+SOURCE      Paphiopedilum villosum
+  ORGANISM  Paphiopedilum villosum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Paphiopedilum.
+REFERENCE   1  (bases 1 to 910)
+  AUTHORS   Gorniak,M., Szlachetko,D.L., Kowalkowska,A.K., Bohdanowicz,J. and
+            Canh,C.X.
+  TITLE     Taxonomic placement of Paphiopedilum canhii (Cypripedioideae;
+            Orchidaceae) based on cytological, molecular and micromorphological
+            evidence
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   24001522
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 910)
+  AUTHORS   Gorniak,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JAN-2012) Molecular Evolution, Gdansk University, ul.
+            Ornitologow 26, Gdansk 80-680, Poland
+FEATURES             Location/Qualifiers
+     source          1..910
+                     /organism="Paphiopedilum villosum"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Szlachetko 119/99"
+                     /db_xref="taxon:53122"
+     gene            <1..>910
+                     /gene="xdh"
+     mRNA            <1..>910
+                     /gene="xdh"
+                     /product="xanthine dehydrogenase"
+     CDS             <1..>910
+                     /gene="xdh"
+                     /codon_start=1
+                     /product="xanthine dehydrogenase"
+                     /protein_id="AFQ60872.1"
+                     /db_xref="GI:402503031"
+                     /translation="FRIFAKTDNSLYVKSSSGNKPSGEFICPSTGKPCSCGESKFHNC
+                     ESSSGAVFGERWPVSYSEIDGSFYNEKELIFPPELLLRNNLPLKLHGFGGINWFRPLK
+                     LKSLLDLKSNYPEAKLIVGNTEVGIEINFKNARYPILISVTHVPELNVLSIKENGLEI
+                     GSSVRLSKLQEFLKKVIAERDKSETSSCRAINDQLKWFAGKQVKNAASVGGNICTASP
+                     ISDLNPLWMAARAVFQIIDSKGKIRTVLAKDFFLGYRKVDLAQGEILLSIFLPWNKHC
+                     EFVKEFKQSHRREDDIALVNAGMRVHL"
+ORIGIN      
+        1 tttcgcattt ttgctaagac tgataactcc ttgtacgtta aatcatcttc agggaataaa
+       61 ccatctggtg aattcatttg cccatcaaca ggaaaaccat gttcatgtgg agagagtaaa
+      121 tttcataatt gtgaaagttc atcaggtgct gtctttggag aacgctggcc tgtctcatac
+      181 agtgaaattg atggaagttt ctacaacgaa aaggagctta tttttccgcc agaactgctt
+      241 ttgagaaata atcttccact gaaattgcat ggttttggtg gaattaattg gtttcgacct
+      301 ctaaaactta aatctctgtt ggatctcaag tcaaattacc cggaggcaaa acttattgtt
+      361 ggtaatacag aggtaggtat tgaaattaat tttaaaaatg ctcgatatcc aatcctgata
+      421 tctgtcacgc atgtacctga gctcaatgtt ttgagcataa aagagaatgg tcttgagata
+      481 ggttcttctg taagactaag caaacttcaa gaatttctca aaaaggtgat agcagaacgt
+      541 gataagtctg agacctcctc atgcagggcc atcaatgatc agctaaaatg gtttgctgga
+      601 aagcaggtga aaaatgctgc ttctgttggt ggaaatatct gtactgctag cccaatttca
+      661 gatttgaatc cactttggat ggctgctaga gctgtcttcc aaattattga ttctaaaggg
+      721 aaaatcagaa ccgttcttgc caaagacttc tttcttggtt accgcaaagt tgatctcgcc
+      781 caaggtgaaa tactactgtc aattttctta ccatggaaca agcactgtga gttcgtgaaa
+      841 gaatttaagc aatcacaccg gagagaggat gatattgctc ttgtgaatgc tgggatgcgt
+      901 gtacatctca
+//
+
+LOCUS       JQ660942                 874 bp    DNA     linear   PLN 15-SEP-2013
+DEFINITION  Paphiopedilum superbiens xanthine dehydrogenase (xdh) gene, partial
+            cds.
+ACCESSION   JQ660942
+VERSION     JQ660942.1  GI:402503028
+KEYWORDS    .
+SOURCE      Paphiopedilum superbiens
+  ORGANISM  Paphiopedilum superbiens
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Paphiopedilum.
+REFERENCE   1  (bases 1 to 874)
+  AUTHORS   Gorniak,M., Szlachetko,D.L., Kowalkowska,A.K., Bohdanowicz,J. and
+            Canh,C.X.
+  TITLE     Taxonomic placement of Paphiopedilum canhii (Cypripedioideae;
+            Orchidaceae) based on cytological, molecular and micromorphological
+            evidence
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   24001522
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 874)
+  AUTHORS   Gorniak,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JAN-2012) Molecular Evolution, Gdansk University, ul.
+            Ornitologow 26, Gdansk 80-680, Poland
+FEATURES             Location/Qualifiers
+     source          1..874
+                     /organism="Paphiopedilum superbiens"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Szlachetko 102/06/P"
+                     /db_xref="taxon:53116"
+     gene            <1..>874
+                     /gene="xdh"
+     mRNA            <1..>874
+                     /gene="xdh"
+                     /product="xanthine dehydrogenase"
+     CDS             <1..>874
+                     /gene="xdh"
+                     /codon_start=1
+                     /product="xanthine dehydrogenase"
+                     /protein_id="AFQ60871.1"
+                     /db_xref="GI:402503029"
+                     /translation="IKSSSENKPSGEFICPSTGKPCSCGESKFHNCESSSGAVFGECW
+                     PVSYSEIDGSFYNEKELIFPPELLLRNNLPLKLHGFGGINWFRPLKLKYLLDLKSNYP
+                     EAKLIVGNTEVGIEINFKNARYPILISVTHVPELNVLSIKENGLEIGSSVRLSKLQEF
+                     LKKVIAERDKSETSSCRAISDQLKWFAGKQVKNAASVGGNICTASPISDLNPLWMAAR
+                     AVFQIIDSKGKIRTVLAKDFFLGYRKVDISQGEILLSIFLPWNKHCEFVKEFKQSHRR
+                     EDDIALVNAGMRVHL"
+ORIGIN      
+        1 attaaatcat cttcagagaa taaaccatct ggtgaattca tttgcccatc aacaggaaaa
+       61 ccatgttcat gtggagaaag taaatttcat aattgtgaaa gttcatcagg tgctgtcttt
+      121 ggagaatgct ggcctgtctc gtacagtgaa attgatggaa gtttctacaa tgaaaaggag
+      181 cttatttttc cgccagaact gcttttgaga aataatcttc cactgaaatt gcatggtttt
+      241 ggtggaatta attggtttcg acctctaaaa cttaaatatc tgttggatct caagtcaaat
+      301 tacccggagg caaaacttat tgttggtaat acagaggtag gtattgaaat taattttaaa
+      361 aatgctcgat atccaatcct gatatctgtc acgcatgtac ctgagctcaa tgttttgagc
+      421 ataaaagaga atggtcttga gataggttct tctgtaagac taagtaaact tcaagaattt
+      481 ctcaaaaagg tgatagcaga acgtgacaag tctgagacct cctcatgcag ggctatcagt
+      541 gatcagctaa aatggtttgc tggcaagcag gtgaaaaatg ctgcttctgt tggtggaaat
+      601 atctgtactg ctagcccaat ttcagatttg aatccacttt ggatggctgc aagagctgtc
+      661 ttccaaatta ttgattctaa agggaaaatc agaaccgttc ttgccaaaga cttctttctt
+      721 ggttaccgca aagttgatat ttcccaaggt gaaatactac tgtcaatttt cttaccatgg
+      781 aacaagcact gtgagttcgt gaaagaattt aagcaatcac accggagaga ggatgatatt
+      841 gctcttgtga atgctgggat gcgtgtacat ctca
+//
+
+LOCUS       JQ660941                 910 bp    DNA     linear   PLN 15-SEP-2013
+DEFINITION  Paphiopedilum argus xanthine dehydrogenase (xdh) gene, partial cds.
+ACCESSION   JQ660941
+VERSION     JQ660941.1  GI:402503026
+KEYWORDS    .
+SOURCE      Paphiopedilum argus
+  ORGANISM  Paphiopedilum argus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae;
+            Cypripedioideae; Paphiopedilum.
+REFERENCE   1  (bases 1 to 910)
+  AUTHORS   Gorniak,M., Szlachetko,D.L., Kowalkowska,A.K., Bohdanowicz,J. and
+            Canh,C.X.
+  TITLE     Taxonomic placement of Paphiopedilum canhii (Cypripedioideae;
+            Orchidaceae) based on cytological, molecular and micromorphological
+            evidence
+  JOURNAL   Mol. Phylogenet. Evol. (2013) In press
+   PUBMED   24001522
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 910)
+  AUTHORS   Gorniak,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JAN-2012) Molecular Evolution, Gdansk University, ul.
+            Ornitologow 26, Gdansk 80-680, Poland
+FEATURES             Location/Qualifiers
+     source          1..910
+                     /organism="Paphiopedilum argus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Szlachetko 7/06/P"
+                     /db_xref="taxon:53068"
+     gene            <1..>910
+                     /gene="xdh"
+     mRNA            <1..>910
+                     /gene="xdh"
+                     /product="xanthine dehydrogenase"
+     CDS             <1..>910
+                     /gene="xdh"
+                     /codon_start=1
+                     /product="xanthine dehydrogenase"
+                     /protein_id="AFQ60870.1"
+                     /db_xref="GI:402503027"
+                     /translation="FRIFAKTDNSLYIKSSSENKPSGEFICPSTGKPCSCGESKFHNC
+                     ESSSGAVFGECWPVSYSEIDGSFYNEKELIFPPELLLRNNLPLKLHGFGGINWFRPLK
+                     LKYLLDLKSNYPEAKLIVGNTEVGIEINFKNARYPILISVTHVPELNVLSIKENGVEI
+                     GSSVRLSKLQEFLKKVIAERDKSETSSCRAISDQLKWFAGKQVKNAASVGGNICTASP
+                     ISDLNPLWMAARAVFQIIDSKGKIRTVLAKDFFLGYRKVDISQGEILLSIFLPWNKHC
+                     EFVKEFKQSHRREDDIALVNAGMRVHL"
+ORIGIN      
+        1 tttcgcattt tcgctaagac tgataactcc ttgtacatta aatcatcttc agagaataaa
+       61 ccatctggtg aattcatttg cccatcaaca ggaaaaccat gttcatgtgg agaaagtaaa
+      121 tttcataatt gtgaaagttc atcaggtgct gtctttggag aatgctggcc tgtctcgtac
+      181 agtgaaattg atggaagttt ctacaatgaa aaggagctta tttttccgcc agaactgctt
+      241 ttgagaaata atcttccact gaaattgcat ggttttggtg gaattaattg gtttcgacct
+      301 ctaaaactta aatatctgtt ggatctcaag tcaaattacc cggaggcaaa acttattgtt
+      361 ggtaatacag aggtaggtat tgaaattaat tttaaaaatg ctcgatatcc aatcctgata
+      421 tctgtcacgc atgtacctga gctcaatgtt ttgagcataa aagagaatgg tgttgagata
+      481 ggttcttctg taagactaag taaacttcaa gaatttctca aaaaggtgat agcagaacgt
+      541 gacaagtctg agacctcctc atgcagggct atcagtgatc agctaaaatg gtttgctggc
+      601 aagcaggtga aaaatgctgc ttctgttggt ggaaatatct gtactgctag cccaatttca
+      661 gatttgaatc cactttggat ggctgcaaga gctgtcttcc aaattattga ttctaaaggg
+      721 aaaatcagaa ccgttcttgc caaagacttc tttcttggtt accgcaaagt tgatatttcc
+      781 caaggtgaaa tactactgtc aattttctta ccatggaaca agcactgtga gttcgtgaaa
+      841 gaatttaagc aatcacaccg gagagaggat gatattgctc ttgtgaatgc tgggatgcgt
+      901 gtacatctca
+//
+

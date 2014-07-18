@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec75a15e-74a4-4d5d-8e3f-1689944889a1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist/Psychologist-Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/FlickrTopPlacesTableViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/route@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/PyCharm30/options/feature.usage.statistics.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Facebook Image Saver/Facebook Image Saver.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/test/test/second@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher.xcodeproj/project.xcworkspace/xcuserdata/biomorph.xcuserdatad/WorkspaceSettings.xcsettings" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/json2coredatatest/json2coredatatest.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/json2coredatatest.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/JsonToCoreData/JsonToCoreData.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/routes.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/Json2CoreData.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rosalind_lexf.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Facebook Image Saver/Facebook Image Saver/en.lproj/InfoPlist.strings" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Map/Salt Lake City.gpx" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Happiness/Happiness.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/Happiness.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/default@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist/FaceView.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Map/Map.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcdebugger/Breakpoints.xcbkptlist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Genomic_sequencing.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Facebook Image Saver/Facebook Image Saver.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Map/Map.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/FlickrImageViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Facebook Image Saver/Facebook Image Saver/Default.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/Json2CoreData.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Facebook Image Saver/Facebook Image Saver/Facebook Image Saver-Prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Facebook Image Saver/Facebook Image Saver.xcodeproj/project.xcworkspace/xcuserdata/biomorph.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/BRDevTest/BRDevTest.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/FlickrImageViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/FlickrRecentTableViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/BRDevTest/BRDevTest/StoreDetailViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist/FaceView.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist/PsychologistAppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/help@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/PyCharm30/options/abbreviations.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/Trips.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/test/test/Default.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Happiness/Happiness.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist/en.lproj/iPhone.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist/DrPillWebsiteVIewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TAIR9_functional_descriptions.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/test/test/Default@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rosalind_graph.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/test/test.xcodeproj/project.xcworkspace/xcuserdata/biomorph.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/Json2CoreData.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/Json2CoreData.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/Model.xcdatamodeld/.xccurrentversion" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist/iPad.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist.xcodeproj/project.xcworkspace/xcuserdata/biomorph.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/json2coredatatest/json2coredatatest.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/test/test/first@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/test/test/SecondViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/FlickrRecentTableViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/closest@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/FavoritesTableViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Map/Map/main.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Happiness/Happiness/Happiness-Prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Default-Landscape~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/MapViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/test/test/FirstViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/Json2CoreData/Json2CoreData.1" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/test/test/en.lproj/FirstViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/PyCharm30/options/template.settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstClass/Pet" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/utahTracker provisioning profile.developerprofile" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/Model.xcdatamodeld/Model.xcdatamodel/contents" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Map/Map/Map-Prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/Shapes.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/BRDevTest/BRDevTest/StoreDetailViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Map/Map.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Facebook Image Saver/Facebook Image Saver.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/Facebook Image Saver.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist/en.lproj/InfoPlist.strings" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Happiness/Happiness/en.lproj/InfoPlist.strings" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Default-568h@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/Routes.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/StopMapViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Facebook Image Saver/Facebook Image Saver/main.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/FlickrCache.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Overlap_graph.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Map/Map.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/Map.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/Reachability.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/json2coredatatest/json2coredatatest/main.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/CoreDataGenerator/CoreDataGenerator.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/CoreDataGenerator.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/route.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Protein_molWt.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/FlickrFetcher.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/iPadIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/PyCharm30/options/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rosalind_perm.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rosalind_lcsm.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Facebook Image Saver/Facebook Image Saver/en.lproj/MainStoryboard_iPad.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/Shapes.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Happiness/Happiness/main.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/json2coredatatest/json2coredatatest.xcodeproj/project.xcworkspace/xcuserdata/biomorph.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Default-Portrait~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/favorites@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aa_MW.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/UTAService.geojson" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/en.lproj/InfoPlist.strings" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher.xcodeproj/project.xcworkspace/xcuserdata/biomorph.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/routeplan@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/json2coredatatest/json2coredatatest/json2coredatatest.1" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/FlickrTopPlacesTopFiftyTableViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist/Psychologist-Prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/PyCharm30/options/encoding.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist/HappinessViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Facebook Image Saver/Facebook Image Saver/Default@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist/main.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/GTFS.sqlite" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist/SplitViewBarButtonItemPresenter.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/SplitViewBarButtonItemPresenter.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/BRDevTest/BRDevTest.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/BRDevTest.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/StopInfoTableViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/PyCharm30/inspection/Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist/PsychologistViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist/DrPillWebsiteVIewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Permutations.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/json2coredatatest/json2coredatatest.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/Json2CoreData.xcodeproj/project.xcworkspace/xcuserdata/biomorph.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/timetableViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist/RotatableViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/Flickr Top Places Fetcher.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/BRDevTest/BRDevTest.xcodeproj/project.xcworkspace/xcuserdata/biomorph.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/test/test/FirstViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/HelpViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/Json2CoreData/Json2CoreData.xcdatamodeld/.xccurrentversion" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/FlickrPhotoAnnotation.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/timetableViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstClass/Threads.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Find_revPalindrome.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/shapes.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/JsonToCoreData/JsonToCoreData.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/JsonToCoreData.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Map/Map/en.lproj/MainStoryboard_iPad.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Map/Map.xcodeproj/project.xcworkspace/xcuserdata/biomorph.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/en.lproj/MainStoryboard_iPad.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Happiness/Happiness/en.lproj/MainStoryboard.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstClass/.idea/FirstClass.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist/HappinessViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/Flickr Top Places Fetcher-Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Default-Portrait@2x~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/json2coredatatest/json2coredatatest/json2coredatatest.xcdatamodeld/.xccurrentversion" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/UTA_Tracker_restored" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist/PsychologistAppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codon_table_DNA.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstClass/Song.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rosalind_revp.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/test/test/SecondViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Facebook Image Saver/Facebook Image Saver/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Map/Map/en.lproj/InfoPlist.strings" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/UTAStopMonitoringViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Facebook Image Saver/Facebook Image Saver.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Facebook Image Saver/Facebook Image Saver/Default-568h@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/RoutePlannerViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rosalind_prtm.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus.xcodeproj/project.xcworkspace/xcuserdata/biomorph.xcuserdatad/WorkspaceSettings.xcsettings" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/help.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/BRDevTest/BRDevTest.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcdebugger/Breakpoints.xcbkptlist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist/PsychologistViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/test/test/first.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Happiness/Happiness/HappinessAppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstClass/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/StopInfoTableViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/default.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Happiness/Happiness/FaceView.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/JsonToCoreData/JsonToCoreData.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rosalind_mrna.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/test/test/second.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Happiness/Happiness/HappinessViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/favorites.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstClass/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/RoutePlannerViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Find_Orfs.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Happiness/Happiness/Happiness-Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/json2coredatatest/json2coredatatest/json2coredatatest-Prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/test/test/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/FlickrTopFiftyTableViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Inc_Dec_Subsequence.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/trips.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/test/test/Default-568h@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/routeplan.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Facebook Image Saver/Facebook Image Saver/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Facebook Image Saver/Facebook Image Saver/ViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Shared_motif.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/help.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Map/Map/ViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/icon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rosalind_mprt.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/json2coredatatest/json2coredatatest/json2coredatatest.xcdatamodeld/json2coredatatest.xcdatamodel/contents" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Happiness/Happiness.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Map/Map/Map-Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Happiness/Happiness/HappinessViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rosalind_long.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Map/Map/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/closest.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Map/Map/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/PyCharm30/options/statistics.application.usages.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist/RotatableViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstClass/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/CoreDataGenerator/CoreDataGenerator.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcdebugger/Breakpoints.xcbkptlist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/JsonToCoreData/JsonToCoreData.xcodeproj/project.xcworkspace/xcuserdata/biomorph.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/Psychologist.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcdebugger/Breakpoints.xcbkptlist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/graphing_RPN_calculator" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/Salt Lake City.gpx" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/BRDevTest/BRDevTest/StoreDetailViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Facebook Image Saver/Facebook Image Saver/ViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/PyCharm30/options/file.template.settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/HelpViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Happiness/Happiness.xcodeproj/project.xcworkspace/xcuserdata/biomorph.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/Trips.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/stops.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/CoreDataGenerator/CoreDataGenerator.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/FlickrTopFiftyTableViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/Json2CoreData/Json2CoreData-Prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Kmer_enumeration.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/test/test/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/Flickr Top Places Fetcher-Prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/StopMapViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/json2coredatatest/json2coredatatest.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/test/test/en.lproj/SecondViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rosalind_gc.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstClass/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/FlickrPhotoAnnotation.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/FlickrFetcher.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Happiness/Happiness/HappinessAppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstClass/copyspecial.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/Stops.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mRNA_combinations.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/test/test.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/test.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Map/Map/en.lproj/MainStoryboard_iPhone.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/json2coredatatest/json2coredatatest/json2coredatatest.xcdatamodeld/json2coredatatest.xcdatamodel/.xccurrentversion" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Map/Map.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/FlickrCache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Find_Protein_motif.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/Stops.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Happiness/Happiness/FaceView.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/FlickrAPIKey.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Facebook Image Saver/Facebook Image Saver/en.lproj/MainStoryboard_iPhone.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/iPadIcon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/Json2CoreData.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/FlickrTopPlacesTableViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/CoreDataGenerator/CoreDataGenerator.xcodeproj/project.xcworkspace/xcuserdata/biomorph.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/en.lproj/MainStoryboard_iPhone.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/iTunesArtwork.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/main.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/PyCharm30/options/runner.layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Psychologist/Psychologist.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Splice_rna.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Flickr Top Places Fetcher/Flickr Top Places Fetcher/MapViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/test/test.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rosalind_splc.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/FavoritesTableViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rosalind_orf.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/Reachability.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/test/test.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstClass/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Facebook Image Saver/Facebook Image Saver/Facebook Image Saver-Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/BRDevTest/BRDevTest.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Map/Map/ViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/UTAStopMonitoringViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/Routes.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Json2CoreData/Json2CoreData/main.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Happiness/Happiness.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Developer/Utah Bus/Default-Landscape@2x~ipad.png" />
+      <change type="DELETED" beforePath="$USER_HOME$/Developer/test/test/en.lproj/MainStoryboard.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Developer/test/test/testAppDelegate.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Developer/test/test/testDetailViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Developer/Utah Bus/Utah Bus/StopViewController.m" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Developer/JsonToCoreData/shapes.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Developer/test/test/stops.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Developer/test/test/testDetailViewController.m" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Developer/test/test/testMasterViewController.m" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Developer/test/test/test.xcdatamodeld/.xccurrentversion" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Developer/test/test/test.xcdatamodeld/test.xcdatamodel/contents" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Developer/test/test/testMasterViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Developer/Utah Bus/Utah Bus/UTAGTFS.sqlite" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Developer/Utah Bus/Utah Bus/StopViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Developer/test/test/trips.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Developer/test/test/testAppDelegate.m" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/Utah Bus/Utah Bus/UtaFetcher.m" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/UtaFetcher.m" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/Utah Bus/Utah Bus/Model.xcdatamodeld/Model.xcdatamodel/contents" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/Model.xcdatamodeld/Model.xcdatamodel/contents" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/Utah Bus/Utah Bus/MapViewController.h" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/MapViewController.h" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/Utah Bus/Utah Bus/UTAViewController.m" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/UTAViewController.m" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/Utah Bus/Utah Bus/LocationAnnotation.m" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/LocationAnnotation.m" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/Utah Bus/Utah Bus.xcodeproj/project.xcworkspace/xcuserdata/biomorph.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus.xcodeproj/project.xcworkspace/xcuserdata/biomorph.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/Utah Bus/Utah Bus/AppDelegate.m" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/AppDelegate.m" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/Utah Bus/Utah Bus.xcodeproj/project.pbxproj" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/JsonToCoreData/routes.json" afterPath="$USER_HOME$/Developer/JsonToCoreData/routes.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/Utah Bus/Utah Bus/MapViewController.m" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/MapViewController.m" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/Utah Bus/Utah Bus/AppDelegate.h" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/AppDelegate.h" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/Utah Bus/Utah Bus/Utah Bus-Info.plist" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/Utah Bus-Info.plist" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/Utah Bus/Utah Bus.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcdebugger/Breakpoints.xcbkptlist" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcdebugger/Breakpoints.xcbkptlist" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/Utah Bus/Utah Bus/en.lproj/MainStoryboard.storyboard" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/en.lproj/MainStoryboard.storyboard" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/test/test/test-Info.plist" afterPath="$USER_HOME$/Developer/test/test/test-Info.plist" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/JsonToCoreData/JsonToCoreData.xcodeproj/project.pbxproj" afterPath="$USER_HOME$/Developer/JsonToCoreData/JsonToCoreData.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/BRDevTest/BRDevTest/MainWindow.xib" afterPath="$USER_HOME$/Developer/BRDevTest/BRDevTest/MainWindow.xib" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/BRDevTest/BRDevTest/WebViewController.m" afterPath="$USER_HOME$/Developer/BRDevTest/BRDevTest/WebViewController.m" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/test/test/test-Prefix.pch" afterPath="$USER_HOME$/Developer/test/test/test-Prefix.pch" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/Utah Bus/Utah Bus/UtaFetcher.h" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/UtaFetcher.h" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/Utah Bus/Utah Bus/UTAViewController.h" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus/UTAViewController.h" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/test/test/main.m" afterPath="$USER_HOME$/Developer/test/test/main.m" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/test/test.xcodeproj/project.pbxproj" afterPath="$USER_HOME$/Developer/test/test.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/JsonToCoreData/JsonToCoreData/Model.xcdatamodeld/Model.xcdatamodel/contents" afterPath="$USER_HOME$/Developer/JsonToCoreData/JsonToCoreData/Model.xcdatamodeld/Model.xcdatamodel/contents" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/Calculator_old" afterPath="$USER_HOME$/Developer/Calculator_old" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/BRDevTest/BRDevTest.xcodeproj/project.pbxproj" afterPath="$USER_HOME$/Developer/BRDevTest/BRDevTest.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/BRDevTest/BRDevTest/TableViewController.m" afterPath="$USER_HOME$/Developer/BRDevTest/BRDevTest/TableViewController.m" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Developer/Utah Bus/Utah Bus.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/Utah Bus.xcscheme" afterPath="$USER_HOME$/Developer/Utah Bus/Utah Bus.xcodeproj/xcuserdata/biomorph.xcuserdatad/xcschemes/Utah Bus.xcscheme" />
+    </list>
+    <ignored path="Rosalind.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Rosalind" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/rosalind_hamm.txt" />
+        <option value="$PROJECT_DIR$/rosalind_subs.txt" />
+        <option value="$PROJECT_DIR$/Motif_finder.py" />
+        <option value="$PROJECT_DIR$/Exp_Mendel_avg.py" />
+        <option value="$PROJECT_DIR$/rosalind_gc.txt" />
+        <option value="$PROJECT_DIR$/rosalind_cons.txt" />
+        <option value="$PROJECT_DIR$/Fibonacci_mortal_rabbit.py" />
+        <option value="$PROJECT_DIR$/Fibonacci_mortal_bunnies.py" />
+        <option value="$PROJECT_DIR$/Consensus_profile.py" />
+        <option value="$PROJECT_DIR$/rosalind_graph.txt" />
+        <option value="$PROJECT_DIR$/mRNA_combinations.py" />
+        <option value="$PROJECT_DIR$/rosalind_prot.txt" />
+        <option value="$PROJECT_DIR$/rosalind_mrna.txt" />
+        <option value="$PROJECT_DIR$/rosalind_shared.txt" />
+        <option value="$PROJECT_DIR$/Shared_motif.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/Find_Protein_motif.py" />
+        <option value="$PROJECT_DIR$/rosalind_mprt.txt" />
+        <option value="$PROJECT_DIR$/Reverse_Comp.py" />
+        <option value="$PROJECT_DIR$/codon_table_DNA.txt" />
+        <option value="$PROJECT_DIR$/rosalind_orf.txt" />
+        <option value="$PROJECT_DIR$/Find_Orfs.py" />
+        <option value="$PROJECT_DIR$/Permutations.py" />
+        <option value="$PROJECT_DIR$/aa_MW.txt" />
+        <option value="$PROJECT_DIR$/Protein_molWt.py" />
+        <option value="$PROJECT_DIR$/Find_revPalindrome.py" />
+        <option value="$PROJECT_DIR$/rosalind_revp.txt" />
+        <option value="$PROJECT_DIR$/Overlap_graph.py" />
+        <option value="$PROJECT_DIR$/Translate_rna.py" />
+        <option value="$PROJECT_DIR$/Splice_rna.py" />
+        <option value="$PROJECT_DIR$/rosalind_splc.txt" />
+        <option value="$PROJECT_DIR$/rosalind_lexf.txt" />
+        <option value="$PROJECT_DIR$/Kmer_enumeration.py" />
+        <option value="$PROJECT_DIR$/Inc_Dec_Subsequence.py" />
+        <option value="$PROJECT_DIR$/rosalind_long.txt" />
+        <option value="$PROJECT_DIR$/Genomic_sequencing.py" />
+        <option value="$PROJECT_DIR$/bismark.cov" />
+        <option value="$PROJECT_DIR$/BismarkCovToDSS.py" />
+        <option value="$PROJECT_DIR$/Parse_Funct_Desc.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="2468" />
+    <option name="height" value="1297" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rosalind" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rosalind" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rosalind" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="Errors" />
+    <property name="FullScreen" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="SearchEverywhereHistory" value="" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Parse_Funct_Desc">
+    <configuration default="false" name="Kmer_enumeration" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rosalind" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kmer_enumeration.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Inc_Dec_Subsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rosalind" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inc_Dec_Subsequence.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Genomic_sequencing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rosalind" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Genomic_sequencing.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BismarkCovToDSS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rosalind" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BismarkCovToDSS.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Parse_Funct_Desc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rosalind" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Parse_Funct_Desc.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rosalind" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rosalind" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rosalind" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rosalind" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rosalind" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rosalind" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.Kmer_enumeration" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Inc_Dec_Subsequence" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Genomic_sequencing" />
+      <item index="3" class="java.lang.String" itemvalue="Python.BismarkCovToDSS" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Parse_Funct_Desc" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Parse_Funct_Desc" />
+        <item index="1" class="java.lang.String" itemvalue="Python.BismarkCovToDSS" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Genomic_sequencing" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Inc_Dec_Subsequence" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Kmer_enumeration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec75a15e-74a4-4d5d-8e3f-1689944889a1" name="Default" comment="" />
+      <created>1391464624081</created>
+      <updated>1391464624081</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="2468" height="1297" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16491085" sideWeight="0.58933336" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41066667" sideWeight="0.38333333" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3884365" sideWeight="0.6166667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="705" y="122" width="1400" height="1122" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32881084" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BismarkCovToDSS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="52" selection-start="229" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TAIR9_functional_descriptions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="79" selection-start="7896" selection-end="7896" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="15090">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bismark.cov">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BismarkCovToDSS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="141" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Consensus_profile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="1050" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Genomic_sequencing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="1" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rosalind_long.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="10" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="195" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Permutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="141" max-vertical-offset="555" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shared_motif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="25" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overlap_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="21" selection-start="31" selection-end="359" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="405" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rosalind_cons.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="180" column="0" selection-start="10060" selection-end="10060" vertical-scroll-proportion="0.96801704" vertical-offset="1792" max-vertical-offset="2790" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hamming_distance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="225" selection-end="225" vertical-scroll-proportion="0.3930131" vertical-offset="0" max-vertical-offset="458" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rosalind_graph.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="300" column="0" selection-start="10623" selection-end="10623" vertical-scroll-proportion="0.92753625" vertical-offset="4116" max-vertical-offset="4590" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rosalind_prot.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="9075" selection-start="0" selection-end="9075" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="401" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rosalind_mrna.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="999" selection-start="999" selection-end="999" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="401" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rosalind_lcsm.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="27090" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shared_motif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="54" selection-start="20" selection-end="2000" vertical-scroll-proportion="0.92268044" vertical-offset="377" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rosalind_mprt.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rosalind_hamm.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1035" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rosalind_revc.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="984" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codon_table_DNA.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="5" selection-start="392" selection-end="392" vertical-scroll-proportion="0.92268044" vertical-offset="587" max-vertical-offset="1035" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codon_table.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="392" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1035" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mRNA_combinations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="36" selection-start="244" selection-end="244" vertical-scroll-proportion="0.28985506" vertical-offset="0" max-vertical-offset="480" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reverse_Comp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="1" selection-start="468" selection-end="468" vertical-scroll-proportion="0.615942" vertical-offset="0" max-vertical-offset="414" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Find_Protein_motif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="12" selection-start="953" selection-end="953" vertical-scroll-proportion="0.0" vertical-offset="111" max-vertical-offset="645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rosalind_orf.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="26" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Find_Orfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="20" selection-end="1145" vertical-scroll-proportion="0.038659792" vertical-offset="0" max-vertical-offset="720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Permutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="0.036231883" vertical-offset="0" max-vertical-offset="414" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fibonacci_rabbits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Protein_molWt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="27" selection-start="187" selection-end="187" vertical-scroll-proportion="0.2536232" vertical-offset="0" max-vertical-offset="414" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aa_MW.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="13" selection-start="274" selection-end="274" vertical-scroll-proportion="0.6884058" vertical-offset="0" max-vertical-offset="414" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rosalind_revp.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="949" selection-end="949" vertical-scroll-proportion="0.615942" vertical-offset="0" max-vertical-offset="414" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Find_revPalindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="69" selection-start="20" selection-end="732" vertical-scroll-proportion="0.79710144" vertical-offset="0" max-vertical-offset="480" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GC_content.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="153" selection-end="153" vertical-scroll-proportion="0.24879228" vertical-offset="2" max-vertical-offset="465" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Motif_finder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="16" selection-start="251" selection-end="251" vertical-scroll-proportion="0.36231884" vertical-offset="0" max-vertical-offset="414" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Translate_rna.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rosalind_splc.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="0" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0" vertical-offset="276" max-vertical-offset="750" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kmer_enumeration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="10" selection-start="251" selection-end="251" vertical-scroll-proportion="0.39855072" vertical-offset="0" max-vertical-offset="414" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rosalind_lexf.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="1" selection-start="19" selection-end="19" vertical-scroll-proportion="0.036231883" vertical-offset="0" max-vertical-offset="414" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Splice_rna.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="44" selection-start="669" selection-end="669" vertical-scroll-proportion="0.76086956" vertical-offset="0" max-vertical-offset="435" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inc_Dec_Subsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="805" selection-end="805" vertical-scroll-proportion="0.8562368" vertical-offset="165" max-vertical-offset="720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overlap_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="24" selection-start="362" selection-end="386" vertical-scroll-proportion="0.50739956" vertical-offset="0" max-vertical-offset="473" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rosalind_long.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="10" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Genomic_sequencing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="1" selection-start="578" selection-end="578" vertical-scroll-proportion="0.2893726" vertical-offset="59" max-vertical-offset="840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exp_Mendel_avg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="65" selection-start="85" selection-end="85" vertical-scroll-proportion="0.020408163" vertical-offset="0" max-vertical-offset="735" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Consensus_profile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0" vertical-offset="287" max-vertical-offset="1035" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dss.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bismark.cov">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="216" selection-end="216" vertical-scroll-proportion="0.12244898" vertical-offset="0" max-vertical-offset="1225" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TAIR9_functional_descriptions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="79" selection-start="7896" selection-end="7896" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="15090">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="LargeFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BismarkCovToDSS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="52" selection-start="229" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parse_Funct_Desc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="1554" selection-end="1554" vertical-scroll-proportion="0.3159225" vertical-offset="0" max-vertical-offset="1187">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
