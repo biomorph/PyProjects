@@ -10,14 +10,14 @@ B = map(int,fh.readline().strip().split())
 C = []
 i = 0
 j = 0
-while i+j < m+n-1:
+while i<n and j < m:
     if A[i] > B[j]:
         C.append(B[j])
         j += 1
     else:
         C.append(A[i])
         i += 1
-if i < n: C.append(A[i])
-elif j < m: C.append(B[j])
+if i < n: C.extend(A[i:])
+elif j < m: C.extend(B[j:])
 
 print ' '.join(map(str,C))
